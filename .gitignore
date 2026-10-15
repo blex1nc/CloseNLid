@@ -1,0 +1,7 @@
+# SwiftPM derleme çıktısı — depoya girmemeli.
+.build/
+# Paketlenmiş uygulama.
+dist/
+.DS_Store
+*.xcuserstate
+.swiftpm/
